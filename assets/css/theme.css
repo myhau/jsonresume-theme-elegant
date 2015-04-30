@@ -563,19 +563,19 @@ body {
   -webkit-transition: height 1s ease;
 }
 .skill-level .skill-progress.beginner {
-  height: 50%;
+  height: 20%;
   background: #e74c3c;
 }
 .skill-level .skill-progress.intermediate {
-  height: 70%;
+  height: 50%;
   background: #f1c40f;
 }
 .skill-level .skill-progress.advanced {
-  height: 80%;
+  height: 70%;
   background: #428bca;
 }
 .skill-level .skill-progress.master {
-  height: 95%;
+  height: 85%;
   background: #5cb85c;
 }
 .skill-info {
